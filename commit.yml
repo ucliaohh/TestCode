@@ -3,69 +3,15 @@ branches: {
   }
 fileChange:
   /CheckLog:
-    newFile: !uuid 'c00d5b3bb6dd39057a8ceda44d1f218c5f26c16a'
-    oldFile: !uuid 'd1d5cb92cf3526125e2d44caa0f3e1576dd5cb3c'
-  /CheckLog/x64:
-    newFile: !uuid 'c30c14d790f787c35cab6eba6759800009c49f79'
-    oldFile: !uuid '880d72fb7feb89ab987ff5c75a58dbb013b73c62'
-  /CheckLog/x64/CheckLog Answer:
-    newFile: !uuid 'c08f9acd053aa0700d00d9851772f59c05d25d0a'
-    oldFile: !uuid '61284d2992c6f74bad3c8ddd2f8a695c3a52a7e2'
-  /CheckLog/x64/CheckLog Answer/lib:
-    newFile: !uuid 'fe15b08d509892f4ea51975dcb8cb6afea49e049'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/lib/Qt5Core.lib:
-    newFile: !uuid '42a6b2c8660061e2a4be8a067141d169c33ebabb'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/lib/Qt5Gui.lib:
-    newFile: !uuid '41eb8de5011d491682672e6d3ec7c9f9d0f33ac1'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/lib/Qt5Widgets.lib:
-    newFile: !uuid '41d150232c5f262e21981dde795ba2b64538faf1'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/libcrypto-1_1-x64.dll:
-    newFile: !uuid '534810cc32f03a05aa925de9213118292b56a42c'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/libiomp5md.dll:
-    newFile: !uuid '9737e7133d0d0d0810327be78d3542830dc70381'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins:
-    newFile: !uuid '0fb9d14bb63b5bb32f67b3567ef5aebec82132d8'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms:
-    newFile: !uuid '316d969d6604c5035d096ab4f5b7526ae9c908ed'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qdirect2d.dll:
-    newFile: !uuid 'a57875cddcfba8a6d2373f4e180b654edcbeda61'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qdirect2dd.dll:
-    newFile: !uuid 'f61d6cecb8581667dfd8e07a337d5bc5fb530ca9'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qminimal.dll:
-    newFile: !uuid '65c34d0b66f897b6bb945b19d2a57c5eb6a31485'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qminimald.dll:
-    newFile: !uuid 'ba33488cd0cbeaba169d00eb3eb3696c8111b616'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qoffscreen.dll:
-    newFile: !uuid 'e2fc82c99cce70285250b10521422eb8cb82017e'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qoffscreend.dll:
-    newFile: !uuid '76209019ed8bebcdd35f9f167cc7dfe90783e989'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qwebgl.dll:
-    newFile: !uuid 'f0d36ba1c1470fd0d412768c1dfac2e3a018e8ca'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qwebgld.dll:
-    newFile: !uuid '9d5f8fd135b43f4fbb22763f3b796a7f10b30370'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qwindows.dll:
-    newFile: !uuid '9b03e624ea28792fc0759c3168d61ff7c082989a'
-    oldFile: null
-  /CheckLog/x64/CheckLog Answer/plugins/platforms/qwindowsd.dll:
-    newFile: !uuid '3d120c0bc1aad3d838bddda347183093bd97228e'
-    oldFile: null
-gitCommitId: !uuid 'cfde673386c81de2ff29a08555189a3e2d9d6b9b'
+    newFile: !uuid 'e8373ae07fefcb6a9bc9927e37ace9f96429ddc9'
+    oldFile: !uuid 'c00d5b3bb6dd39057a8ceda44d1f218c5f26c16a'
+  /CheckLog/CheckLog:
+    newFile: !uuid '887e6a8d4d149fb3f0ec909173a7e9ec568168e7'
+    oldFile: !uuid 'a3325eb54e833a1a5b0d9f4c45ba26669cebec7e'
+  /CheckLog/CheckLog/CheckLog.vcxproj:
+    newFile: !uuid '9bd6c49def3abb185456998cca079351c303b4c7'
+    oldFile: !uuid 'ece9b483276a40fc562cf2e56e3d583648a7e3c6'
+gitCommitId: !uuid 'f3ce9cf52884a9098d0cfd0b4f3f70f69fa1f5c4'
 renames: {
   }
-revisionId: 3
+revisionId: 4
