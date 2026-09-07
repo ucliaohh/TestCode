@@ -2,13 +2,64 @@
 branches: {
   }
 fileChange:
-  /README.en.md:
-    newFile: !uuid '16c11ef2fa9faf89184af54b904a0b5fac63e451'
+  /CheckLog:
+    newFile: !uuid 'd1d5cb92cf3526125e2d44caa0f3e1576dd5cb3c'
     oldFile: null
-  /README.md:
-    newFile: !uuid '589507a3d12d244ee8eb27c7307de38d75aa62ab'
+  /CheckLog/CheckLog:
+    newFile: !uuid 'a3325eb54e833a1a5b0d9f4c45ba26669cebec7e'
     oldFile: null
-gitCommitId: !uuid '4b6b438ede726cdfb6d0fcde5094d63facfdf19f'
+  /CheckLog/CheckLog.sln:
+    newFile: !uuid '0041b530c02bc0d8df55cc47ff49fac75fd7a566'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.cpp:
+    newFile: !uuid '072a3ac66792d54ca7ec4200775155f7ea259ecb'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.h:
+    newFile: !uuid '0eabd70ce2af4953d38afb4e6affcb5c26110eed'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.qrc:
+    newFile: !uuid '9ec741e3851474cff0b415895e7fde5c3aae3007'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.ui:
+    newFile: !uuid '033e1124b8b2f876160adaa60208417ad9821c04'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.vcxproj:
+    newFile: !uuid 'ece9b483276a40fc562cf2e56e3d583648a7e3c6'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.vcxproj.filters:
+    newFile: !uuid '5ebbf5c1d2b625ea54ccbaec57ed89a86457c5ea'
+    oldFile: null
+  /CheckLog/CheckLog/CheckLog.vcxproj.user:
+    newFile: !uuid '5a4d7e14500df61757ccb01c1bd55d974df82959'
+    oldFile: null
+  /CheckLog/CheckLog/main.cpp:
+    newFile: !uuid '0483a403f228b6bf49321097aa4882bc6b20fcc0'
+    oldFile: null
+  /CheckLog/CheckLog/sqlite3.h:
+    newFile: !uuid 'e432733c2f624dfc9d073eef6a080eb69bedb6ed'
+    oldFile: null
+  /CheckLog/CheckLog/sqlite3.lib:
+    newFile: !uuid 'c4a9d40973e0ee77c0d14399e3dd124e286b3ca5'
+    oldFile: null
+  /CheckLog/x64:
+    newFile: !uuid '880d72fb7feb89ab987ff5c75a58dbb013b73c62'
+    oldFile: null
+  /CheckLog/x64/CheckLog Answer:
+    newFile: !uuid '61284d2992c6f74bad3c8ddd2f8a695c3a52a7e2'
+    oldFile: null
+  /CheckLog/x64/CheckLog Answer/Qt5Core.dll:
+    newFile: !uuid '6ac82d60c3c1f1c5ffd2c04c131de19d76ac909c'
+    oldFile: null
+  /CheckLog/x64/CheckLog Answer/Qt5Gui.dll:
+    newFile: !uuid 'a11da3ec858ac51b6b2f8f5500e08e074fc2d928'
+    oldFile: null
+  /CheckLog/x64/CheckLog Answer/Qt5Widgets.dll:
+    newFile: !uuid 'aa3ffa75f58a0eb3341f615a3b897d845f8b952a'
+    oldFile: null
+  /CheckLog/x64/CheckLog Answer/sqlite3.dll:
+    newFile: !uuid '629f69f32e46eb9bb30cbc723a8350f54973f35f'
+    oldFile: null
+gitCommitId: !uuid '123880eca8f6c3102cf51b3014e16fcca8e6d787'
 renames: {
   }
-revisionId: 1
+revisionId: 2
