@@ -3,15 +3,15 @@ branches: {
   }
 fileChange:
   /CheckLog:
-    newFile: !uuid 'e8373ae07fefcb6a9bc9927e37ace9f96429ddc9'
-    oldFile: !uuid 'c00d5b3bb6dd39057a8ceda44d1f218c5f26c16a'
+    newFile: !uuid '363a559e629e16845ee5b64c668c22be29727788'
+    oldFile: !uuid 'e8373ae07fefcb6a9bc9927e37ace9f96429ddc9'
   /CheckLog/CheckLog:
-    newFile: !uuid '887e6a8d4d149fb3f0ec909173a7e9ec568168e7'
-    oldFile: !uuid 'a3325eb54e833a1a5b0d9f4c45ba26669cebec7e'
-  /CheckLog/CheckLog/CheckLog.vcxproj:
-    newFile: !uuid '9bd6c49def3abb185456998cca079351c303b4c7'
-    oldFile: !uuid 'ece9b483276a40fc562cf2e56e3d583648a7e3c6'
-gitCommitId: !uuid 'f3ce9cf52884a9098d0cfd0b4f3f70f69fa1f5c4'
+    newFile: !uuid '8ee0166e7069586fa662e78364e271621dad347f'
+    oldFile: !uuid '887e6a8d4d149fb3f0ec909173a7e9ec568168e7'
+  /CheckLog/CheckLog/main.cpp:
+    newFile: !uuid 'df900555ab63528c1c80d44e74d4d3d54944abb6'
+    oldFile: !uuid '0483a403f228b6bf49321097aa4882bc6b20fcc0'
+gitCommitId: !uuid '391046484eae533f9f501d25a0b0c385e1ea1204'
 renames: {
   }
-revisionId: 4
+revisionId: 5
