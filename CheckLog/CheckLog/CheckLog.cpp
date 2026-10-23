@@ -1,23 +1,14 @@
 #include "CheckLog.h"
-#include "CheckLog.h"
 #include "ui_CheckLog.h"
 #include "sqlite3.h"
 
 #include <algorithm>
 #include <cstring>
 #include <thread>
-
-#include <QCoreApplication>
 #include <QDir>
 #include <QDirIterator>
-#include <QFile>
 #include <QFileDialog>
-#include <QFileInfo>
-#include <QHeaderView>
-#include <QMetaObject>
 #include <QPointer>
-#include <QStatusBar>
-#include <QTableWidgetItem>
 #include <QTextStream>
 
 #pragma comment(lib, "sqlite3.lib")
