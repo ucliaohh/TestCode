@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CheckLog/CheckLog/x64/CheckLog Answer
+/CheckLog/.vs/CheckLog
