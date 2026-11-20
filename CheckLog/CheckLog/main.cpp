@@ -8,13 +8,3 @@ int main(int argc, char* argv[])
 	window.show();
 	return app.exec();
 }
-
-//pr-test001
-
-//pr-test002
-
-//pr-test003
-
-//pr-test004
-
-//pr-test005
