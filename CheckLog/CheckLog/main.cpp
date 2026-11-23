@@ -9,6 +9,4 @@ int main(int argc, char* argv[])
 	return app.exec();
 }
 
-//pr-test001
-
-//pr-test002
+//pr - test01
